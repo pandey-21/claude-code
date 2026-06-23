@@ -145,12 +145,12 @@ For now, I am learning the concepts, workflow, architecture, and command pattern
 For every topic, I will maintain:
 
 ```text
-Definition
-Purpose
-Flow
-Example
-Recall Questions
-Mini Practical
+1. Practical idea
+2. Why it matters in real projects
+3. One small example
+4. Commands or workflow you should remember
+5. Your 5-line summary
+6. One tiny documentation update in your repo
 ```
 
 This will help me retain the concepts better and avoid passive tutorial-based learning.
